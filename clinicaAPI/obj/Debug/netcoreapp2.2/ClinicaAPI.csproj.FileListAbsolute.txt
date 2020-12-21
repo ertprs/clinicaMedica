@@ -1,0 +1,42 @@
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.csprojAssemblyReference.cache
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorAssemblyInfo.cache
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorAssemblyInfo.cs
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.AssemblyInfoInputs.cache
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.AssemblyInfo.cs
+C:\WORKSPACE\ClinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.deps.json
+C:\WORKSPACE\ClinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.runtimeconfig.json
+C:\WORKSPACE\ClinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.runtimeconfig.dev.json
+C:\WORKSPACE\ClinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.dll
+C:\WORKSPACE\ClinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.pdb
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorTargetAssemblyInfo.cache
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.dll
+C:\WORKSPACE\ClinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.pdb
+C:\WORKSPACE\ClinicaAPI - Copia\bin\Debug\netcoreapp2.2\ClinicaAPI.deps.json
+C:\WORKSPACE\ClinicaAPI - Copia\bin\Debug\netcoreapp2.2\ClinicaAPI.runtimeconfig.json
+C:\WORKSPACE\ClinicaAPI - Copia\bin\Debug\netcoreapp2.2\ClinicaAPI.runtimeconfig.dev.json
+C:\WORKSPACE\ClinicaAPI - Copia\bin\Debug\netcoreapp2.2\ClinicaAPI.dll
+C:\WORKSPACE\ClinicaAPI - Copia\bin\Debug\netcoreapp2.2\ClinicaAPI.pdb
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.csprojAssemblyReference.cache
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorAssemblyInfo.cache
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorAssemblyInfo.cs
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.AssemblyInfoInputs.cache
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.AssemblyInfo.cs
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorTargetAssemblyInfo.cache
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.dll
+C:\WORKSPACE\ClinicaAPI - Copia\obj\Debug\netcoreapp2.2\ClinicaAPI.pdb
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.deps.json
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.runtimeconfig.json
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.runtimeconfig.dev.json
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.dll
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\bin\Debug\netcoreapp2.2\ClinicaAPI.pdb
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.csprojAssemblyReference.cache
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.csproj.CoreCompileInputs.cache
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorAssemblyInfo.cache
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorAssemblyInfo.cs
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.AssemblyInfoInputs.cache
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.AssemblyInfo.cs
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.dll
+C:\Users\karin.moraes\Desktop\clinica\clinicaAPI\obj\Debug\netcoreapp2.2\ClinicaAPI.pdb
